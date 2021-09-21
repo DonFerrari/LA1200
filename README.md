@@ -2,4 +2,5 @@
 
 ## The Random-Number guesser.
 
-In this game you have to guess the number from the program.
+In this game you have to guess the number that is randomly created.
+If you guess the number you win else the program helps you whether the number is lower or higher than you guessed.
